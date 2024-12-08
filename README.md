@@ -6,6 +6,8 @@ RU:
  • author (автор книги)
  • year (год издания)
  • status (статус книги: “в наличии”, “выдана”)
+ Написал функции для каждой операции (добавление, удаление, поиск, отображение, изменение статуса).
+ Применил объектно-ориентированный подход программирования
 
  Требования
  1. Добавление книги: Пользователь вводит title, author и year, после чего книга добавляется в библиотеку
@@ -24,6 +26,9 @@ The application allows you to add, delete, search and display books. Each book c
 • author (author of the book)
 • year (year of publication)
 • status (book status: “in stock”, “issued”)
+
+Wrote functions for each operation (add, delete, search, display, change status).
+Applied object-oriented programming approach
 
 Requirements
 1. Adding a book: The user enters the title, author and year, after which the book is added to the library
